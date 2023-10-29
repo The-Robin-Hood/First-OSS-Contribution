@@ -16,5 +16,11 @@ Please go through the steps in `Contribution.md` file before making a pull reque
         </tr>
     </thead>
     <tbody>
+    <tr>
+        <td>1</td>
+        <td>Robinhood</td>
+        <td><img width="75" src="https://avatars.githubusercontent.com/u/32297581?v=4" alt="Contributor Avatar"></td>
+        <td>@Am5orry</td>
+    </tr>
     </tbody>
 </table>
