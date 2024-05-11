@@ -41,10 +41,5 @@ Please go through the steps in `Contribution.md` file before making a pull reque
         <td>@MicahTechs</td>
         
     </tr>
-    <tr>
-        <td>4</td>
-        <td>Sathya</td>
-        <td>Not Created</td>
-    </tr>
     </tbody>
 </table>
