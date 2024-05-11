@@ -39,6 +39,10 @@ Please go through the steps in `Contribution.md` file before making a pull reque
         <td>Kirubason Edwin</td>
         <td><img width="75" src="https://avatars.githubusercontent.com/u/59027905?v=4" alt="Contributor Avatar"></td>
         <td>@MicahTechs</td>
+        <td>4</td>
+        <td>Sathya</td>
+        
+        <td>Not Created</td>
     </tr>
     </tbody>
 </table>
