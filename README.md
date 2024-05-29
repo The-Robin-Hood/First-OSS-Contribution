@@ -28,5 +28,11 @@ Please go through the steps in `Contribution.md` file before making a pull reque
         <td><img width="75" src="https://avatars.githubusercontent.com/u/38309082?v=4" alt="Contributor Avatar"></td>
         <td>@krkavin007</td>
     </tr>
+    <tr>
+        <td>1</td>
+        <td>Maverick</td>
+        <td><img width="75" src="https://avatars.githubusercontent.com/u/101414258?s=400&u=22eed06520fda26f6cd55d99eacdc03ab38fb14c&v=4" alt="Contributor Avatar"></td>
+        <td>@FrozMohd</td>
+    </tr>
     </tbody>
 </table>
