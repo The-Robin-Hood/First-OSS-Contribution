@@ -47,4 +47,10 @@ Please go through the steps in `Contribution.md` file before making a pull reque
         <td>@FrozMohd</td>
                                 </tr>
     </tbody>
+        <tr>
+        <td>6</td>
+        <td>Sudhakaran</td>
+        <td><img width="75" src="github avatar url" alt="Contributor Avatar"></td>
+        <td>@TwitterHandle</td>
+    </tr>
 </table>
