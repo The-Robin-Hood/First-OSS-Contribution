@@ -16,12 +16,10 @@ Please go through the steps in `Contribution.md` file before making a pull reque
         </tr>
     </thead>
     <tbody>
-    <tr>
-        <td>1</td>
-        <td>Robinhood</td>
-        <td><img width="75" src="https://avatars.githubusercontent.com/u/32297581?v=4" alt="Contributor Avatar"></td>
-        <td>@Am5orry</td>
-    </tr>
+    <td>1</td>
+        <td>Santhosh Kannan</td>
+        <td><img width="75" src="https://avatars.githubusercontent.com/u/140004786?s=96&v=4" alt="Contributor Avatar"></td>
+        <td>@TwitterHandle</td>
     <tr>
         <td>2</td>
         <td>Kavin K R</td>
