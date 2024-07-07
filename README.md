@@ -50,7 +50,7 @@ Please go through the steps in `Contribution.md` file before making a pull reque
         <td>5</td>
         <td>Ravi prakasham</td>
         <td><img width="75" src="https://avatars.githubusercontent.com/u/98576718?v=4" alt="Contributor Avatar"></td>
-        <td>@ravi_prakasham/td>
+        <td>@ravi_prakasham</td>
     </tr>
     </tbody>
 </table>
