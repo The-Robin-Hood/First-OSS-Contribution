@@ -16,10 +16,12 @@ Please go through the steps in `Contribution.md` file before making a pull reque
         </tr>
     </thead>
     <tbody>
-    <td>1</td>
-        <td>Santhosh Kannan</td>
-        <td><img width="75" src="https://avatars.githubusercontent.com/u/140004786?s=96&v=4" alt="Contributor Avatar"></td>
-        <td>@TwitterHandle</td>
+    <tr>
+        <td>1</td>
+        <td>Robinhood</td>
+        <td><img width="75" src="https://avatars.githubusercontent.com/u/32297581?v=4" alt="Contributor Avatar"></td>
+        <td>@Am5orry</td>
+    </tr>
     <tr>
         <td>2</td>
         <td>Kavin K R</td>
@@ -43,12 +45,18 @@ Please go through the steps in `Contribution.md` file before making a pull reque
         <td>Feroz</td>
         <td><img width="75" src="https://avatars.githubusercontent.com/u/101414258?s=400&u=22eed06520fda26f6cd55d99eacdc03ab38fb14c&v=4"></td>
         <td>@FrozMohd</td>
-                                </tr>
-    </tbody>
-        <tr>
+    </tr>
+    <tr>
         <td>6</td>
+        <td>Santhosh Kannan</td>
+        <td><img width="75" src="https://avatars.githubusercontent.com/u/140004786?s=96&v=4" alt="Contributor Avatar"></td>
+        <td>None</td>
+    </tr>
+    <tr>
+        <td>7</td>
         <td>Sudhakaran</td>
-        <td><img width="75" src="github avatar url" alt="Contributor Avatar"></td>
+        <td><img width="75" src="https://avatars.githubusercontent.com/u/148798829?v=4" alt="Contributor Avatar"></td>
         <td>@sudhakar</td>
     </tr>
+    </tbody>
 </table>
