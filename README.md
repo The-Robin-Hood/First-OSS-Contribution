@@ -58,5 +58,11 @@ Please go through the steps in `Contribution.md` file before making a pull reque
         <td><img width="75" src="https://avatars.githubusercontent.com/u/148798829?v=4" alt="Contributor Avatar"></td>
         <td>@sudhakar</td>
     </tr>
+    <tr>
+        <td>8</td>
+        <td>Amyy Alex</td>
+        <td><img width="75" src="https://avatars.githubusercontent.com/u/75863610?s=400&u=e36ed900f5727a2cfcb50b24799d628ab1019987&v=4" alt="Contributor Avatar"></td>
+        <td>@amyysteph</td>
+    </tr>
     </tbody>
 </table>
