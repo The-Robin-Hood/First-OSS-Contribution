@@ -45,9 +45,31 @@ Please go through the steps in `Contribution.md` file before making a pull reque
         <td>Feroz</td>
         <td><img width="75" src="https://avatars.githubusercontent.com/u/101414258?s=400&u=22eed06520fda26f6cd55d99eacdc03ab38fb14c&v=4"></td>
         <td>@FrozMohd</td>
+
                                 </tr>
+   
     <tr>
-        <td>5</td>
+        <td>6</td>
+        <td>Santhosh Kannan</td>
+        <td><img width="75" src="https://avatars.githubusercontent.com/u/140004786?s=96&v=4" alt="Contributor Avatar"></td>
+        <td>None</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>Sudhakaran</td>
+        <td><img width="75" src="https://avatars.githubusercontent.com/u/148798829?v=4" alt="Contributor Avatar"></td>
+        <td>@sudhakar</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Amyy Alex</td>
+        <td><img width="75" src="https://avatars.githubusercontent.com/u/75863610?s=400&u=e36ed900f5727a2cfcb50b24799d628ab1019987&v=4" alt="Contributor Avatar"></td>
+        <td>@amyysteph</td>
+
+    </tr>
+      
+     <tr>
+        <td>9</td>
         <td>Ravi prakasham</td>
         <td><img width="75" src="https://avatars.githubusercontent.com/u/98576718?v=4" alt="Contributor Avatar"></td>
         <td>@ravi_prakasham</td>
