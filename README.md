@@ -70,5 +70,11 @@ Please go through the steps in `Contribution.md` file before making a pull reque
         <td><img width="75" src="https://avatars.githubusercontent.com/u/121619324?v=4" alt="Contributor Avatar"></td>
         <td>@vkprasanth06</td>
     </tr>
+     <tr>
+        <td>10</td>
+        <td>Naveenkumar48</td>
+        <td><img width="75" src="https://avatars.githubusercontent.com/u/70509293?v=4" alt="Contributor Avatar"></td>
+        <td>@NaveenKumar_48</td>
+    </tr>
     </tbody>
 </table>
