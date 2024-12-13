@@ -18,6 +18,12 @@ Please go through the steps in `Contribution.md` file before making a pull reque
     <tbody>
     <tr>
         <td>1</td>
+        <td>Sivaranjani40</td>
+        <td><img width="75" src="https://avatars.githubusercontent.com/u/111686211?s=400&v=4" alt="Contributor Avatar"></td>
+        <td>Not created...</td>
+    </tr>
+    <tr>
+        <td>1</td>
         <td>Robinhood</td>
         <td><img width="75" src="https://avatars.githubusercontent.com/u/32297581?v=4" alt="Contributor Avatar"></td>
         <td>@Am5orry</td>
