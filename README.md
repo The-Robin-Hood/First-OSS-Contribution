@@ -76,5 +76,11 @@ Please go through the steps in `Contribution.md` file before making a pull reque
         <td><img width="75" src="https://avatars.githubusercontent.com/u/70509293?v=4" alt="Contributor Avatar"></td>
         <td>@NaveenKumar_48</td>
     </tr>
+    <tr>
+        <td>11</td>
+        <td>Shanmuga Priya AR</td>
+        <td><img width="75" src="https://avatars.githubusercontent.com/u/161346022?v=4" alt="Contributor Avatar"></td>
+        <td>@pr3wyhh</td>
+    </tr>
     </tbody>
 </table>
