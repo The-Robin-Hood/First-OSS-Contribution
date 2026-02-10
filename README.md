@@ -15,7 +15,6 @@ Please go through the steps in `Contribution.md` file before making a pull reque
             <th>Twitter Handle</th>
         </tr>
     </thead>
-    <tbody>
     <tr>
         <td>1</td>
         <td>Robinhood</td>
@@ -90,6 +89,4 @@ Please go through the steps in `Contribution.md` file before making a pull reque
   </td>
   <td>@Fabiola17-lab</td>
 </tr>
-
-    </tbody>
 </table>
