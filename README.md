@@ -82,5 +82,14 @@ Please go through the steps in `Contribution.md` file before making a pull reque
         <td><img width="75" src="https://avatars.githubusercontent.com/u/161346022?v=4" alt="Contributor Avatar"></td>
         <td>@pr3wyhh</td>
     </tr>
+        <tr>
+  <td>12</td>
+  <td>Fabiola</td>
+  <td>
+    <img width="75" src="https://avatars.githubusercontent.com/Fabiola17-lab" alt="Contributor Avatar">
+  </td>
+  <td>@Fabiola17-lab</td>
+</tr>
+
     </tbody>
 </table>
